@@ -1,16 +1,27 @@
 ## Hi there 👋
 
-<!--
-**msamf/msamf** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Projects
+Here are some links and information about my projects:
 
-Here are some ideas to get you started:
+### Data Science (Python, Jupyter Notebook)
+Project Name | Concept | Tools
+-- | -- | --
+[Iris (EDA)](https://github.com/msamf/dataScience_general/tree/main/eda_iris) | Exploratory Data Analysis | pandas, seaborn 
+[Diagnosing Diabetes](https://github.com/msamf/dataScience_general/tree/main/eda_diagnosingDiabetes) | Exploratory Data Analysis (incl. cleaning) | pandas, seaborn
+[Obesity (feature selection)](https://github.com/msamf/dataScience_general/tree/main/wrapperMethods_obesity) | Wrapper Methods | mlxtend.feature_selection.SequentialFeatureSelector(), sklearn.feature_selection.RFE() 
+[Income (boosting)](https://github.com/msamf/dataScience_general/tree/main/AdaBoost_income) | Boosting | sklearn.ensemble.AdaBoostClassifier() and .GradientBoostingClassifier(), sklearn.model_selection.GridSearchCV 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Deep Learning (Python, Jupyter Notebook)
+
+### Machine Learning Engineering (Python, Jupyter Notebook)
+Project Name | Concept | Tools
+-- | -- | --
+[Bone Marrow](https://github.com/msamf/dataScience_general/tree/main/buildingPipelines_boneMarrow) | Pipelines | sklearn.preprocessing.LabelEncoder(), .StandardScaler(), .OneHotEncoder(), sklearn.compose.ColumnTransformer(), sklearn.impute.SimpleImputer(), sklearn.pipeline.Pipeline()
+
+### General C++
+
+
+
+
+
+
